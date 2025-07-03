@@ -1,0 +1,11 @@
+
+# Ignore all
+*
+!*/
+
+# but .hda
+!**/*.hda
+!.gitignore
+
+# ignore backups
+**/backup/**
